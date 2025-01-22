@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello World! I'm [Your Name]
+# 👋 Hello World! I'm Kaustubh Agrawal aka NOX
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Game+Developer;App+Developer)](https://git.io/typing-svg)
 
 </div>
