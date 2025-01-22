@@ -8,7 +8,7 @@
 ## 🎮 About Me
 Software engineer and aspiring game developer currently pursuing BTech. Passionate about creating immersive gaming experiences and developing mobile applications. Always learning, always coding!
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<img align="centre" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
 ## 🚀 Skills
 ### Languages
