@@ -1,14 +1,14 @@
 <div align="center">
   
 # 👋 Hello World! I'm Kaustubh Agrawal aka NOX
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Game+Developer;App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=Software+Engineer;Game+Developer;App+Developer)](https://git.io/typing-svg)
 
 </div>
 
 ## 🎮 About Me
 Software engineer and aspiring game developer currently pursuing BTech. Passionate about creating immersive gaming experiences and developing mobile applications. Always learning, always coding!
 
-<img align="centre" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
 ## 🚀 Skills
 ### Languages
