@@ -29,7 +29,7 @@ Software engineer and aspiring game developer currently pursuing BTech. Passiona
 ## 📊 GitHub Stats
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaustubh0912&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaustubh0912&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh0912&layout=compact)
 
 </div>
