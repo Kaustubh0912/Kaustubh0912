@@ -49,7 +49,9 @@
   <a href="https://github.com/Kaustubh0912/HandControllerApp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaustubh0912&repo=HandControllerApp&theme=tokyonight" />
   </a>
-  
+  <a href="https://github.com/Kaustubh0912/FoodPrep">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaustubh0912&repo=FoodPrep&theme=tokyonight" />
+  </a>
   
 </div>
 
