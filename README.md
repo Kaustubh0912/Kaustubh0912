@@ -141,40 +141,6 @@ fun_fact: "I debug games by playing them — it's called QA 🎮"
   </picture>
 </div>
 
-> **💡 Setup Note:** To activate the snake animation, add the GitHub Action workflow below to your profile repo at `.github/workflows/snake.yml`:
->
-> <details>
-> <summary>📋 Click to see the workflow</summary>
->
-> ```yaml
-> name: Generate Snake
->
-> on:
->   schedule:
->     - cron: "0 */12 * * *"  # runs every 12 hours
->   workflow_dispatch:
->
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Kaustubh0912
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
->
-> </details>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
