@@ -70,10 +70,14 @@ fun_fact: "I debug games by playing them — it's called QA 🎮"
 <!-- TROPHY SHELF                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaustubh0912&theme=algolia&no-frame=true&no-bg=true&column=-1&margin-w=10" alt="GitHub Trophies" />
+
+  ![Stars](https://img.shields.io/github/stars/Kaustubh0912?style=for-the-badge&logo=github&label=Total%20Stars&color=58a6ff&labelColor=0d1117)&nbsp;
+  ![Followers](https://img.shields.io/github/followers/Kaustubh0912?style=for-the-badge&logo=github&label=Followers&color=58a6ff&labelColor=0d1117)&nbsp;
+  ![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaustubh0912&color=58a6ff&labelColor=0d1117)
+
 </div>
 
 <br>
